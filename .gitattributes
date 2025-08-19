@@ -1,0 +1,5 @@
+/bin/** -text -eol
+/etc/** -text -eol
+/lib/** -text -eol
+/sbin/** -text -eol
+/usr/** -text -eol
