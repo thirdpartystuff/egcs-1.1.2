@@ -3,3 +3,4 @@
 /lib/** -text -eol
 /sbin/** -text -eol
 /usr/** -text -eol
+/var/** -text -eol
