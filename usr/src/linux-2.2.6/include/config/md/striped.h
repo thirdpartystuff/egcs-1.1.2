@@ -1,0 +1,1 @@
+#define CONFIG_MD_STRIPED 1

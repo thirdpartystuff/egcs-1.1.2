@@ -1,0 +1,1 @@
+#define CONFIG_LOWLEVEL_SOUND 1

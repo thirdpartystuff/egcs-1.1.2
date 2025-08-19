@@ -1,0 +1,1 @@
+#undef  CONFIG_SKB_LARGE

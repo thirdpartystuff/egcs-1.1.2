@@ -1,0 +1,1 @@
+#define CONFIG_JOY_ANALOG_MODULE 1

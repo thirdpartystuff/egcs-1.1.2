@@ -1,0 +1,1 @@
+#define CONFIG_FMV18X_MODULE 1

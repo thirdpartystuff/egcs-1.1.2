@@ -1,0 +1,1 @@
+#define CONFIG_JOYSTICK_MODULE 1

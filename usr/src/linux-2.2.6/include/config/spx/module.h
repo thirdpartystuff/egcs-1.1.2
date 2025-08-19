@@ -1,0 +1,1 @@
+#define CONFIG_SPX_MODULE 1

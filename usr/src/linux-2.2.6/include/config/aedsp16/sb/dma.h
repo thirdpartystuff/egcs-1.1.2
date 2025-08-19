@@ -1,0 +1,1 @@
+#define CONFIG_AEDSP16_SB_DMA (0)

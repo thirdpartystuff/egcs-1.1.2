@@ -1,0 +1,1 @@
+#define CONFIG_HISAX_TELES3C 1

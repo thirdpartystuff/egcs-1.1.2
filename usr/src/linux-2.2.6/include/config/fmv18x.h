@@ -1,0 +1,1 @@
+#undef  CONFIG_FMV18X

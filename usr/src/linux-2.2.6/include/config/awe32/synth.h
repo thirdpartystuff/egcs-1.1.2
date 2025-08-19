@@ -1,0 +1,1 @@
+#undef  CONFIG_AWE32_SYNTH

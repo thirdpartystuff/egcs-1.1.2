@@ -1,0 +1,1 @@
+#define CONFIG_DEC_ELCP_MODULE 1

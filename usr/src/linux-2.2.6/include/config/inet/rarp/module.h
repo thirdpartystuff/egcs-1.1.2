@@ -1,0 +1,1 @@
+#define CONFIG_INET_RARP_MODULE 1

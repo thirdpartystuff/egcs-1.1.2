@@ -1,0 +1,1 @@
+#define CONFIG_IPV6_EUI64 1

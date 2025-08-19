@@ -1,0 +1,1 @@
+#define CONFIG_WANPIPE_CARDS (1)

@@ -1,0 +1,1 @@
+#define CONFIG_IPV6_NO_PB 1

@@ -1,0 +1,1 @@
+#define CONFIG_SMB_WIN95 1

@@ -1,0 +1,1 @@
+#define CONFIG_SHARP_FIR_MODULE 1

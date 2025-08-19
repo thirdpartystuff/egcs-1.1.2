@@ -1,0 +1,1 @@
+#define CONFIG_SMD_DISKLABEL 1

@@ -1,0 +1,1 @@
+#define CONFIG_RTL8139_MODULE 1

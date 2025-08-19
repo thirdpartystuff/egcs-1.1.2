@@ -1,0 +1,1 @@
+#define CONFIG_AIC7XXX_RESET_DELAY (5)

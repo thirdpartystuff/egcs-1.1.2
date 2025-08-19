@@ -1,0 +1,1 @@
+#define CONFIG_HFMODEM_MODULE 1

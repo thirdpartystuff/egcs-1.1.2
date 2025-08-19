@@ -1,0 +1,1 @@
+#define CONFIG_SKTR_MODULE 1

@@ -1,0 +1,1 @@
+#define CONFIG_AEDSP16_MPU_IRQ (0)

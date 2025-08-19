@@ -1,0 +1,1 @@
+#define CONFIG_IRLPT_MODULE 1
