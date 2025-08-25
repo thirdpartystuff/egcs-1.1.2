@@ -1,7 +1,7 @@
 
 set(CMAKE_SYSTEM_NAME Linux)
-set(EGCS TRUE)
-set(LINUX TRUE)
+set(EGCS TRUE CACHE INTERNAL "")
+set(LINUX TRUE CACHE INTERNAL "")
 
 set(CMAKE_C_COMPILER "gcc.cmd")
 set(CMAKE_CXX_COMPILER "g++.cmd")
