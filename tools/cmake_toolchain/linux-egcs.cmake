@@ -5,8 +5,8 @@ set(LINUX TRUE)
 
 set(CMAKE_C_COMPILER "gcc.cmd")
 set(CMAKE_CXX_COMPILER "g++.cmd")
-set(CMAKE_AR "ar.cmd")
-set(CMAKE_RANLIB "ranlib.cmd")
+set(CMAKE_AR "ar.cmd" CACHE INTERNAL "")
+set(CMAKE_RANLIB "ranlib.cmd" CACHE INTERNAL "")
 
 set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_CXX_COMPILER_ID "GNU")
